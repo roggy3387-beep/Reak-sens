@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>OnDemandEnabled</key>
+            <true/>
+            <key>OnDemandRules</key>
+            <array>
+                <dict>
+                    <key>Action</key>
+                    <string>Connect</string>
+                </dict>
+            </array>
+            <key>PayloadDescription</key>
+            <string>Ultra Fast DNS & Low Ping Gaming Optimizer</string>
+            <key>PayloadDisplayName</key>
+            <string>Sensi.v2⚙️</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.managed.dnsSettings.custom</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>8F9E2A1B-4C3D-5E6F-7A8B-9C0D1E2F3A4B</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>1.1.1.1</string>
+                    <string>1.0.0.1</string>
+                    <string>208.67.222.222</string>
+                </array>
+                <key>ServerName</key>
+                <string>Cloudflare & OpenDNS Ultra Gaming</string>
+            </dict>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Universal DNS Profile for iOS</string>
+    <key>PayloadDisplayName</key>
+    <string>Sensi.v2⚙️</string>
+    <key>PayloadIdentifier</key>
+    <string>com.reak.sensiv2.profile</string>
+    <key>PayloadOrganization</key>
+    <string>Reak Network Studio</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
